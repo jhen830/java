@@ -1,0 +1,4 @@
+B06, S01, 102, window broken
+B08, S01, 103, windows broken
+B09, S01, 105, table broken
+B15, S01, 107, beg damage
