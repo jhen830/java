@@ -1,5 +1,6 @@
-To test the application, please open the java-assignment-main folder in VS Code and run the main Java class.
+To test the application, please extract the downloaded ZIP file first. Then, navigate to the java-main folder within the extracted project. Inside, you will find another java-main folder; please open this inner java-main folder in VS Code. This will set up the project correctly, allowing you to run the main Java application.
 
+Users and features:
 **Resident Features**
 Account Management: Residents can register for an account and are required to wait 48 business hours for approval to log in.
 Room Booking: Book rooms by specifying the number of days, check-in date, and number of people. Additional services like cleaning, food and drink, and laundry can be selected for extra charges.
